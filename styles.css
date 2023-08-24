@@ -1,4 +1,4 @@
 /*  your css code here. If applicable */
 h1{
-	  text-shadow: 1px 0px black;
+	  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
